@@ -1,0 +1,25 @@
+{
+  "name": "gulp-copy",
+  "version": "1.0.0",
+  "description": "batch copy file and rename",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mbjgithub/gulp-copy.git"
+  },
+  "author": "aliarmo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mbjgithub/gulp-copy/issues"
+  },
+  "homepage": "https://github.com/mbjgithub/gulp-copy#readme",
+  "dependencies": {},
+  "devDependencies": {
+    "event-stream": "^3.3.4",
+    "gulp": "^3.9.1",
+    "gulp-util": "^3.0.8"
+  }
+}
