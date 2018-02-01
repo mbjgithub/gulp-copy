@@ -1,5 +1,5 @@
-# gulp-copy
-batch copy file and rename
+# gulp-just-copy
+batch copy file and rename,origin stream still pipe down
 
 #Usage
 ```
