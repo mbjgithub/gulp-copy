@@ -16,10 +16,11 @@
     "url": "https://github.com/mbjgithub/gulp-just-copy/issues"
   },
   "homepage": "https://github.com/mbjgithub/gulp-just-copy#readme",
-  "dependencies": {},
+  "dependencies": {
+    "gulp-util": "^3.0.8",
+    "event-stream": "^3.3.4"
+  },
   "devDependencies": {
-    "event-stream": "^3.3.4",
-    "gulp": "^3.9.1",
-    "gulp-util": "^3.0.8"
+    "gulp": "^3.9.1"
   }
 }
