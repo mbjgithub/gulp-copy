@@ -1,6 +1,6 @@
 {
   "name": "gulp-just-copy",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "batch copy file and rename",
   "main": "index.js",
   "scripts": {
